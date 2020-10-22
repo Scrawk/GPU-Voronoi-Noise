@@ -3,3 +3,10 @@
 ################################################################################
 
 /UserSettings
+/Temp
+/obj/Debug
+/Logs
+/Library
+/GPU-Voronoi-Noise.sln
+/Assembly-CSharp.csproj
+/.vs/GPU-Voronoi-Noise/v16
