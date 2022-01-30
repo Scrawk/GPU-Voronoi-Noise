@@ -7,3 +7,9 @@ The optimized code for 2D noise was provide and I have extended it into 3D and 4
 
 ![GPU Voronoi Noise](./Media/GPUVoronoiNoise.jpg)
 
+List of procedural noise projects
+
+[Procedural Noise](https://github.com/Scrawk/Procedural-Noise)\
+[GPU-Voronoi-Noise](https://github.com/Scrawk/GPU-Voronoi-Noise)\
+[GPU-GEMS-Improved-Perlin-Noise](https://github.com/Scrawk/GPU-GEMS-Improved-Perlin-Noise)
+
